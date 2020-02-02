@@ -1,0 +1,134 @@
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\Interface.exe.config
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConfigurarSistema.resx
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConsultarContasReceber.resx
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmLancarContaReceber.resx
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmReceberPagamento.resx
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarUsuario.resx
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarEmpresa.resx
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarAluno.resx
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConfigurarSistema.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConfigurarSistema.Designer.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConsultarContasReceber.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConsultarContasReceber.Designer.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmLancarContaReceber.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmLancarContaReceber.Designer.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmReceberPagamento.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmReceberPagamento.Designer.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarUsuario.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarUsuario.Designer.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarEmpresa.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarEmpresa.Designer.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarAluno.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarAluno.Designer.cs
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\Interface.exe
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\Interface.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\MaskedTextBox.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\NLog.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Comum.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Controle.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_ObjetoOT.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Utilitarios.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Negocio.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_PersistenciaDAO.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Negocio.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Comum.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Utilitarios.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_ObjetoOT.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_PersistenciaDAO.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Controle.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\ResolveAssemblyReference.cache
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.FormsRelatorio.frmComprovantePagamento.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConfigurarSistema.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarUsuario.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarProfissao.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarEstadoPaisCidade.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarEmpresa.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarGrupoUsuario.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmRecuperarAluno.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarContasReceber.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmLancarContaReceber.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmReceberPagamento.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarUsuario.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarGrupoUsuario.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmLogin.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarEmpresa.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarProfissao.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarEstadoPaisCidade.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarAluno.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmBase.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarAluno.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmPrincipal.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.rsxImagens.resources
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.exe
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\Interface.exe.config
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.exe
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.FormsRelatorio.frmComprovantePagamento.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConfigurarSistema.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarUsuario.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarProfissao.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarEstadoPaisCidade.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarEmpresa.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarGrupoUsuario.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmRecuperarAluno.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarContasReceber.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmLancarContaReceber.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmReceberPagamento.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarUsuario.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarGrupoUsuario.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmLogin.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarEmpresa.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarProfissao.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarEstadoPaisCidade.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmConsultarAluno.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmBase.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmCadastrarAluno.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.frmPrincipal.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.rsxImagens.resources
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConfigurarSistema.resx
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConsultarContasReceber.resx
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmLancarContaReceber.resx
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmReceberPagamento.resx
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarUsuario.resx
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarEmpresa.resx
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarAluno.resx
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConfigurarSistema.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConfigurarSistema.Designer.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConsultarContasReceber.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmConsultarContasReceber.Designer.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmLancarContaReceber.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmLancarContaReceber.Designer.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmReceberPagamento.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmReceberPagamento.Designer.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarUsuario.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarUsuario.Designer.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarEmpresa.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarEmpresa.Designer.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarAluno.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\frmCadastrarAluno.Designer.cs
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\Interface.exe
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\Interface.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\CrystalDecisions.Shared.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\CrystalDecisions.Web.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\MaskedTextBox.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\NLog.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Comum.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Controle.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_ObjetoOT.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Utilitarios.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\System.Web.Services.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Negocio.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_PersistenciaDAO.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Comum.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Controle.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_ObjetoOT.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Utilitarios.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_Negocio.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Interface\bin\Debug\SCCVE_PersistenciaDAO.pdb

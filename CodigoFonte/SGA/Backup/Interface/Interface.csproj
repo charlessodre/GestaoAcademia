@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D923C1C6-37CB-4DF8-BA7B-287E43346CA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Interface</RootNamespace>
+    <AssemblyName>Interface</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MaskedTextBox, Version=1.0.3530.37513, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencias\MaskedTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=1.0.0.505, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencias\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormsRelatorio\frmComprovantePagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsRelatorio\frmComprovantePagamento.Designer.cs">
+      <DependentUpon>frmComprovantePagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfigurarSistema.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmConfigurarSistema.Designer.cs">
+      <DependentUpon>frmConfigurarSistema.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmConsultarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarUsuario.Designer.cs">
+      <DependentUpon>frmConsultarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarProfissao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarProfissao.Designer.cs">
+      <DependentUpon>frmConsultarProfissao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarEstadoPaisCidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarEstadoPaisCidade.Designer.cs">
+      <DependentUpon>frmConsultarEstadoPaisCidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarEmpresa.Designer.cs">
+      <DependentUpon>frmConsultarEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarGrupoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarGrupoUsuario.Designer.cs">
+      <DependentUpon>frmConsultarGrupoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRecuperarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRecuperarAluno.Designer.cs">
+      <DependentUpon>frmRecuperarAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarContasReceber.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmConsultarContasReceber.Designer.cs">
+      <DependentUpon>frmConsultarContasReceber.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmLancarContaReceber.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmLancarContaReceber.Designer.cs">
+      <DependentUpon>frmLancarContaReceber.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmReceberPagamento.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmReceberPagamento.Designer.cs">
+      <DependentUpon>frmReceberPagamento.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmCadastrarUsuario.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmCadastrarUsuario.Designer.cs">
+      <DependentUpon>frmCadastrarUsuario.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmCadastrarGrupoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarGrupoUsuario.Designer.cs">
+      <DependentUpon>frmCadastrarGrupoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarEmpresa.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmCadastrarEmpresa.Designer.cs">
+      <DependentUpon>frmCadastrarEmpresa.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmCadastrarProfissao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarProfissao.Designer.cs">
+      <DependentUpon>frmCadastrarProfissao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarEstadoPaisCidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarEstadoPaisCidade.Designer.cs">
+      <DependentUpon>frmCadastrarEstadoPaisCidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarAluno.Designer.cs">
+      <DependentUpon>frmConsultarAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBase.designer.cs">
+      <DependentUpon>frmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarAluno.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmCadastrarAluno.Designer.cs">
+      <DependentUpon>frmCadastrarAluno.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IPreenchimentoForm.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormsRelatorio\frmComprovantePagamento.resx">
+      <DependentUpon>frmComprovantePagamento.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfigurarSistema.resx">
+      <DependentUpon>frmConfigurarSistema.cs</DependentUpon>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarUsuario.resx">
+      <DependentUpon>frmConsultarUsuario.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarProfissao.resx">
+      <DependentUpon>frmConsultarProfissao.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarEstadoPaisCidade.resx">
+      <DependentUpon>frmConsultarEstadoPaisCidade.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarEmpresa.resx">
+      <DependentUpon>frmConsultarEmpresa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarGrupoUsuario.resx">
+      <DependentUpon>frmConsultarGrupoUsuario.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRecuperarAluno.resx">
+      <DependentUpon>frmRecuperarAluno.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarContasReceber.resx">
+      <DependentUpon>frmConsultarContasReceber.cs</DependentUpon>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLancarContaReceber.resx">
+      <DependentUpon>frmLancarContaReceber.cs</DependentUpon>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceberPagamento.resx">
+      <DependentUpon>frmReceberPagamento.cs</DependentUpon>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarUsuario.resx">
+      <DependentUpon>frmCadastrarUsuario.cs</DependentUpon>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarGrupoUsuario.resx">
+      <DependentUpon>frmCadastrarGrupoUsuario.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarEmpresa.resx">
+      <DependentUpon>frmCadastrarEmpresa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarProfissao.resx">
+      <DependentUpon>frmCadastrarProfissao.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarEstadoPaisCidade.resx">
+      <DependentUpon>frmCadastrarEstadoPaisCidade.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarAluno.resx">
+      <DependentUpon>frmConsultarAluno.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBase.resx">
+      <DependentUpon>frmBase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarAluno.resx">
+      <DependentUpon>frmCadastrarAluno.cs</DependentUpon>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\crComprovantePagamento.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crComprovantePagamento.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rsxImagens.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>rsxImagens.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Relatorios\crComprovantePagamento.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crComprovantePagamento.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rsxImagens.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rsxImagens.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Comum\Comum.csproj">
+      <Project>{25FF9FDB-E24E-4BE9-9B3F-2A7ED5475277}</Project>
+      <Name>Comum</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Controle\Controle.csproj">
+      <Project>{0D2926AF-0BD0-4187-957C-DF01283CC9B7}</Project>
+      <Name>Controle</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoOT\ObjetoOT.csproj">
+      <Project>{4F1649A8-F11E-4724-92C1-DC8D687DCB88}</Project>
+      <Name>ObjetoOT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilitarios\Utilitarios.csproj">
+      <Project>{C189CC99-C390-4765-8CBB-833A9BC7D1B5}</Project>
+      <Name>Utilitarios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\indisponivel200x200.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webCam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Pasta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\PastaAmarela.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\PastaVerde.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\delete24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\search_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\PastaFotos24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\add24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\floppy32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\sair32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\caneta32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\users_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\user_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\door_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\ChaveAmarela80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Cadeado80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\ChaveAmarelaPrata2_80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\ChaveAmarelaPrata80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Security80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\computer_accept32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\porta32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Limpar32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\USERS_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\delete_group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\user_remove32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\user_add32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\ContasReceber.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\btnContaReceber.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\dinheiro32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\delete32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\btnLancar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\delete321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\btnRecibo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\add_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\add32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\ReceberPagamento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\GrupoUsuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Empresa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Profissao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\LancarConta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagens\Botoes\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

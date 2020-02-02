@@ -1,0 +1,15 @@
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_Controle.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_Controle.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_Comum.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_Negocio.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_ObjetoOT.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_Utilitarios.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_PersistenciaDAO.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_Negocio.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_Comum.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_Utilitarios.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_PersistenciaDAO.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Release\SCCVE_ObjetoOT.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Release\ResolveAssemblyReference.cache
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Release\SCCVE_Controle.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Release\SCCVE_Controle.pdb

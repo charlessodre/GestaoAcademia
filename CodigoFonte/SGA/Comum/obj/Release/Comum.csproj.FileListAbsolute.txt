@@ -1,0 +1,9 @@
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Comum\bin\Release\SCCVE_Comum.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Comum\bin\Release\SCCVE_Comum.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Comum\bin\Release\SCCVE_ObjetoOT.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Comum\bin\Release\SCCVE_Utilitarios.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Comum\bin\Release\SCCVE_Utilitarios.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Comum\bin\Release\SCCVE_ObjetoOT.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Comum\obj\Release\ResolveAssemblyReference.cache
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Comum\obj\Release\SCCVE_Comum.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Comum\obj\Release\SCCVE_Comum.pdb

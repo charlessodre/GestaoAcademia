@@ -1,0 +1,60 @@
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Controle.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Controle.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Comum.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Negocio.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_ObjetoOT.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Utilitarios.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_PersistenciaDAO.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Negocio.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Comum.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Utilitarios.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_PersistenciaDAO.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_ObjetoOT.pdb
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\ResolveAssemblyReference.cache
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\SCCVE_Controle.dll
+K:\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\SCCVE_Controle.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Controle.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Controle.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Comum.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Negocio.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_ObjetoOT.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Utilitarios.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_PersistenciaDAO.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Negocio.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Comum.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Utilitarios.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_PersistenciaDAO.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_ObjetoOT.pdb
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\ResolveAssemblyReference.cache
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\SCCVE_Controle.dll
+C:\cschramm\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\SCCVE_Controle.pdb
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Controle.dll
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Controle.pdb
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Comum.dll
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Negocio.dll
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_ObjetoOT.dll
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Utilitarios.dll
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_PersistenciaDAO.dll
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Negocio.pdb
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Comum.pdb
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Utilitarios.pdb
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_PersistenciaDAO.pdb
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_ObjetoOT.pdb
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\ResolveAssemblyReference.cache
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\SCCVE_Controle.dll
+C:\_Charles\Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\SCCVE_Controle.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Controle.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Controle.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Comum.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Negocio.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_ObjetoOT.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Utilitarios.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_PersistenciaDAO.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Comum.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Negocio.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_ObjetoOT.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_Utilitarios.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\bin\Debug\SCCVE_PersistenciaDAO.pdb
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\SCCVE_Controle.dll
+C:\DESENVOLVIMENTO\Meus Projetos\GestaoAcademia\CodigoFonte\SGA\Controle\obj\Debug\SCCVE_Controle.pdb
